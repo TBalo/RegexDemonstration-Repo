@@ -8,4 +8,4 @@ Usually such patterns are used by string-searching algorithms for "find" or "fin
 ##Validations
 The code validates that a set of given data is inputed in the exact format as defined by the business.
 It contains a method which validates a given Firstname, MobileNumber, Email, Password and an ID to return true or false if it was inputed in the format
-defined in the code in kine with the business-specification.
+defined in the code in kine with the business-specification..
